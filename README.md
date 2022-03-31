@@ -1,2 +1,2 @@
-# PartAComputingPALF
-MATLAB files from taught Part A Computing PALF sessions
+# PartAComputingPAL
+MATLAB files from taught Part A Computing PAL sessions
